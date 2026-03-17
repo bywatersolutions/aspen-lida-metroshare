@@ -1,0 +1,15 @@
+{
+  "name": "MetroShare",
+  "slug": "metroshare",
+  "easId": "ccb71357-5368-4891-af5a-2c345869fa29",
+  "reverseDns": "org.aspendiscovery.metroshare",
+  "discoveryUrl": "https://metroshare.aspendiscovery.org/",
+  "greenhouseUrl": "https://metroshare.aspendiscovery.org/",
+  "libraryId": "2",
+  "themeId": "1",
+  "background": "#ffffff",
+  "sentryProject": "aspen-lida-metroshare",
+  "sentryDsn": "https://21cf24bf85104ad9ab071f08dea3f763@o994439.ingest.sentry.io/6479887",
+  "ascAppId": "1637680746",
+  "logLevel": "0"
+}
